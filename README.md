@@ -15,6 +15,6 @@ I learned a lot from making **awakening** and I think came up with some creative
 
 I have added a testdata folder with checks of the `polymorph()` and `depoly()` functions, and large random generated lists of encryptions.
 
-The `polymorph()` function is not deterministic, however there is a large but finite number of possible combinations for each exact string.
+The `polymorph()` function is not deterministic, however there is a finite but large number of possible combinations for each exact string.
 
 Enjoy!
