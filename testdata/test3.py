@@ -16,7 +16,7 @@ test = 0
 passed = 0
 failed = 0
 
-log.write('TEST LOG FILE FOR AWAKENING CRYPTO PROBLEM\n')
+log.write('TEST LOG FILE FOR POLYMORPH CRYPTO PROBLEM\n')
 log.write('\n')
 
 for a in range(1000000):
