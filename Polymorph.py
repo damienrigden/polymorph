@@ -23,3 +23,8 @@ print(decrypt)
 'Ad hoc polymorphism refers to polymorphic functions that can be applied to \
 arguments of different types, but that behave differently depending on the type \
 of the argument to which they are applied.'
+
+print(question)
+[(['TWVTX]W\\[ZQVZY[YZRT[VYTZXUYXQVZZVW\\[SUYXQVZUZXUYY[[Y[ZXUYXQVZUYUY^TXVTXXTYVZZVW\\[UY^XVRT[Y[Z\\ZZ[ZUY[YWPU\\XTZUUZWZ\\TXZTY]ZZ[UYXZZ[UU[TZZZZVW[VWUVXVVWU\\T[WTX', 113, 101, 101, 120, 117, 117, 104, 112, 101, 104, 34, 113, 104, 34, 102, 108, 105, 104, 104, 116, 103, 113, 118, 35, 104, 113, 116, 111, 118, 34, 99, 111, 114, 112, 106, 35, 119, 106, 104, 35, 112, 103, 111, 100, 104, 117, 118, 35, 113, 104, 34, 100, 35, 114, 114, 115, 119, 110, 100, 118, 107, 114, 113], {'%', '$', '#'})]
+
+Decrypt this question, and send me the encrypted answer to it such that depoly() will decrypt it.
